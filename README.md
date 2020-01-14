@@ -19,7 +19,7 @@ There are two separated applications here:
 1. `akka-remote-service`: it is the Akka application that exposes the remote actor.
 2. `play-client-app`: it is the Play application that lookup the remote actor.
 
-The two applications are present ion this repository just for convenience, but in a real application, they may be completely separated and must run and be deployed in isolation.
+There are two applications present in this repository, just for convenience. But in a real application, they may be completely separated, run, and deployed in isolation.
 
 ## Step by Step guide
 
